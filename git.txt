@@ -1,0 +1,7 @@
+1) return type is int, method name is cmd_worktree, and params are (int ac, const char **av, const char *prefix)
+
+2) this line is for looking into a git object with the object hash of 83484f and looking into the first line of the last 4 lines in the output we get.
+
+3) l10n: de.po: Update German translation for Git v2.31.0
+
+4) Documentation/RelNotes/2.31.1.txt

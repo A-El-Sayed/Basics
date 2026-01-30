@@ -1,0 +1,5 @@
+(a) I typically use VS Code as it allows me to work on different types of projects and languages all in one place, which makes it easy to get things done. I've also had to use eclipse countless times for Java but I definitely don't use it as much as I use  VS Code.
+
+(b) i have experience using vi but it is a minor one where i used it in an undergraduate course I took 4 years ago.
+
+(c) I'm indifferent because I think using terminal-based editors for coding had its benefits as it makes things simple. I find it easy to use without haviing all the extensions and others things to worry about. However, this could also be an issue because people are now used to the IDEs and the code management that comes with it.
