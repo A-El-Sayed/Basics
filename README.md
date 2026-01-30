@@ -1,2 +1,3 @@
 # CS5704 SE Basics Workshop
-Hello!
+Ali El Sayed
+Hello GitHub!
